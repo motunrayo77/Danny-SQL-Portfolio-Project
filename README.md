@@ -1,8 +1,9 @@
 The source of this data was gotten originally from DannyMa's SQL challenge. Source www.datawithdanny.com
 
 About the data
+
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
-Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+Danny’s Diner is in need  of assistance. He needs help so the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business. So, Let's see how I helped him.
 
 
 --This project showcases my SQL skills through the creation and analysis of a sample database. The key features include:
